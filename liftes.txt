@@ -1,0 +1,12 @@
+EN:
+Simple software basically you submit how many levels are there for elevators (which is same as building height)
+then watch as people leave and enter the elevator, school project. Multithread project, so the main aspect is that
+people act independently of other objects as the elevator and people are all on different threads.
+The project is NOT! meant to be run more than a few levels. But it can be for fun. Few means about 10.
+
+HU:
+Egy szimpla kis szimuláció, aminek az elején a felhasználó beírja, hogy a liftnek hány emelete van és a lift fel és le
+megy az emeletek között, iskolai projekt. A lényeg viszont, hogy multithreadinget használ és az emberek önállóan
+cselekszenek még akkor is ha lift elromlik.(akkor csak kis és be járkálnának)
+A projektben bármilyen magasságot meg lehet adni, AZONBAN a projekt nem úgy lett tervezve, hogy 10 felé írjanak számot,
+így 10 felett a grafikai elemek, etc. változhatnak, etc.
